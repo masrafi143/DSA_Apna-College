@@ -1,0 +1,48 @@
+Operators in C++
+
+1. Arithmetic Operators
++  Addition
+-  Subtraction
+*  Multiplication
+/  Division
+%  Modulus (remainder)
+
+2. Relational / Comparison Operators
+==  Equal to
+!=  Not equal to
+>   Greater than
+<   Less than
+>=  Greater than or equal to
+<=  Less than or equal to
+
+3. Logical Operators
+&&  Logical AND (both true)
+||  Logical OR (any one true)
+!   Logical NOT (reverse the condition)
+
+4. Assignment Operators
+=   Assign value
++=  a += b => a = a + b
+-=  a -= b => a = a - b
+*=  a *= b => a = a * b
+/=  a /= b => a = a / b
+%=  a %= b => a = a % b
+
+5. Unary Operators
+++  Increment by 1
+--  Decrement by 1
+
+6. Bitwise Operators (low-level operations)
+&   Bitwise AND
+|   Bitwise OR
+^   Bitwise XOR
+~   Bitwise NOT
+<<  Left Shift
+>>  Right Shift
+
+7. Other Useful Operators
+?:  Ternary Operator -> condition ? true : false
+sizeof() -> returns size of data type or variable
+,   Comma operator (executes multiple statements)
+*   Pointer declaration or dereference
+&   Address-of operator
